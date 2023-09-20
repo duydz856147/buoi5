@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\2033216377_NguyenNhatDuy\buoi1\frmbaitap1\bin\Debug\frmbaitap1.exe.config
+E:\LuuDuLieuSinhVien\2033216377_NguyenNhatDuy\buoi1\frmbaitap1\bin\Debug\frmbaitap1.exe
+E:\LuuDuLieuSinhVien\2033216377_NguyenNhatDuy\buoi1\frmbaitap1\bin\Debug\frmbaitap1.pdb
+E:\LuuDuLieuSinhVien\2033216377_NguyenNhatDuy\buoi1\frmbaitap1\obj\Debug\frmbaitap1.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2033216377_NguyenNhatDuy\buoi1\frmbaitap1\obj\Debug\frmbaitap1.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2033216377_NguyenNhatDuy\buoi1\frmbaitap1\obj\Debug\frmbaitap1.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2033216377_NguyenNhatDuy\buoi1\frmbaitap1\obj\Debug\frmbaitap1.exe
+E:\LuuDuLieuSinhVien\2033216377_NguyenNhatDuy\buoi1\frmbaitap1\obj\Debug\frmbaitap1.pdb
+E:\LuuDuLieuSinhVien\2033216377_NguyenNhatDuy\buoi1\frmbaitap1\obj\Debug\frmbaitap1.frmBaiTap1.resources
